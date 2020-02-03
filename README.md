@@ -1,5 +1,4 @@
-# kwd_ml_project
-Machine Learing Project - Video Transcoding Time Prediction - Python + Jupyter Notebook
+# Video Transcoding Time Prediction - Machine Learing Project - Python + Jupyter Notebook
 
 - [Sprawozdanie KWD - PDF](./kwd_project.pdf)
 
